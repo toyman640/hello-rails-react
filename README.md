@@ -55,9 +55,9 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 In order to run this project you need:
-  * A basic understanding of Ruby, Rails and Git
+  * A basic understanding of React, Redux, Ruby, Rails and Git
   * A postgresql connection
-  * Create some data before running to see Greatings
+  * Create some data before running to see Greetings
 ### Usage
 1. Install Ruby
 1. Install Rails
